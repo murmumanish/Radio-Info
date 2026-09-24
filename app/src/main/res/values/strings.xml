@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Radio Info</string>
+    <string name="message">Your Device Doesn\'t Support this App</string>
+</resources>
