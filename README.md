@@ -8,6 +8,7 @@ A small Android app to quickly open the hidden RadioInfo activity.
 - No ads
 - No notifications
 - Simple and fast
+- Force NR , LTE and etc
 
 ## Android Versions
 This App calls the below activity based on the Android versions.
@@ -22,13 +23,13 @@ The app checks the Android version and opens the correct RadioInfo activity.
 
 ## Why this app exists
 
-I use RadioInfo quite often, mostly to change network mode and set it to NR/5G. I was using some apps from Play Store for this, but they had extra stuff, ads and notifications which I didn't really need.
+I use Force NR quite often, mostly to change network mode and set it to NR/5G from Play Store , but they had extra stuff, ads and notifications which I didn't really need and made my experience bad.
 
-So I made this app just for myself to make things a bit faster.
+So I made this app just for myself to have same functionality with :- 
 
-No ads.  
-No notifications.  
-No complicated interface.
+- No ads.  
+- No notifications.  
+- No complicated interface.
 
 Just a small app that does one thing.
 
