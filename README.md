@@ -11,11 +11,16 @@ User can select their own networks like NR only , LTE only etc
 - No Advertisements
 
 ## Screenshots
-![Sample-1](screenshots/sample-1.jpg)
-![Sample-2](screenshots/sample-2.jpg)
-![Sample-3](screenshots/sample-3.jpg)
-
-Screenshots from Android 17
+<table align="center">
+  <tr>
+    <td align="center"><img src="screenshots/sample-1.jpg" width="200" alt="sample-1"/></td>
+    <td align="center"><img src="screenshots/sample-2.jpg" width="200" alt="sample-2"/></td>
+    <td align="left"><img src="screenshots/sample-3.jpg" width="200" alt="sample-3"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Screenshots from Android 17</b></td>
+  </tr>
+</table>
 
 ## Android Versions
 This App calls the below activity based on the Android versions.
